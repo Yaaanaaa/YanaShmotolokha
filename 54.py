@@ -1,0 +1,10 @@
+from tkinter import *
+window=Tk()
+window.geometry('500x500')
+c=Canvas(width=500, height=500, bg='white')
+c.place(x=0, y=0)
+c.create_rectangle(20,150,300,450, fill='purple')
+c.create_polygon([20,150],[160,30],[300,150], fill='black')
+c.create_polygon([300,450],[300,300],[400,300],[400,375],[480,375],[480,450], fill='black')
+c.create_oval(400,10,480,80, fill='yellow')
+window.mainloop()
