@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.neuf{
+    width: 100%;
+    float: left;
+    background-image: url(../img/bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    
+}
+.ff{
+    float: left;
+    width: 11%;
+}
+.ss{
+    float: left;
+    margin-left: 4%;
+    width: 15%;
+}
+.tt{
+    float:left;
+    margin-left: 1%;
+    width: 15%;
+}
+.jtrf{
+    font-family: 'Marck Script', cursive;
+    font-size: 26pt;
+    color: rgba(251, 82, 49, 255);
+    text-align: center;
+    width: 36%;
+}
+.smal{
+    font-family: "Poppins", sans-serif;
+    font-size: 16pt;
+    color: rgba(76, 76, 76, 255);
+    text-align: center;
+    width: 52%;
+}
+#nm{
+    font-family: "EB Garamond", serif;
+    width: 15%;
+}
+#em{
+    font-family: "EB Garamond", serif;
+    width: 15%;
+}
+#dt{
+    font-family: "EB Garamond", serif;
+    width: 15%;
+}
+#pn{
+    font-family: "EB Garamond", serif;
+    width: 15%;
+}
+label{
+    font-family: 'Vesper Libre', serif;
+    font-size: 14pt;
+    color: rgba(251, 82, 49, 255);
+    text-align: left;
+}
+input[type="submit"]{
+    border-radius: none;
+    border: 2px solid #eb5210;
+    background-color: #eb5210;
+    color: white;
+    width: 15%;
+}
+
+	

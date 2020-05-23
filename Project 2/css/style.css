@@ -1,0 +1,185 @@
+body{
+    background-image: url(/img/bg.png);
+    
+}
+.txt-head{
+    font-family: 'Marck Script', cursive;
+    font-size: 190%;
+    color:#FB5231;
+    margin-left: 55%;
+}
+.head-img{
+    background-image: url(/img/head-img.png);
+    height: 20px;
+    width: 17%;
+    margin-left: 55%;
+}
+
+.txt-main{
+    height: 80px;
+    width: 34%;
+    font-size: 135%;
+    text-align: center;
+    font-family: 'Lato', sans-serif;
+    color: #4C4C4C;
+    margin-left: 47%;
+}
+.main-img{
+   height: 144px; 
+    width: 20%;
+  
+    background-size: cover;
+    margin-left: 76%;
+    margin-top: -30px;
+    display: block;
+}
+
+.register{
+    height: 50px;
+    margin-top: 90px;
+    display: flex;
+}
+
+.name-food{
+    height: 57px;
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 43%
+    
+}.name-food-txt{
+    height: 40px;
+    width: 99.5%;
+    border: 1px solid #C8C6C6;
+    transition: 2s;
+    background-color: white;
+    opacity: 0.6;
+}
+.name-food-txt:hover{
+    border: 1px solid #FB5231;
+    transition: 1s;
+}
+.txt-name{
+    font-size: 120%;
+    color: #FB5231;
+    margin-bottom: -1px;
+    display: block;
+}
+.txt-name-div{
+    color: #C8C6C6;
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+
+
+.emeil-food{
+    height: 57px;
+    width: 20%;
+    
+}.emeil-food-txt{
+    height: 40px;
+    width: 99.5%;
+    border: 1px solid #C8C6C6;
+    transition: 2s;
+     background-color: white;
+    opacity: 0.6;
+}
+.emeil-food-txt:hover{
+    border: 1px solid #FB5231;
+    transition: 1s;
+}
+.txt-emeil{
+    font-size: 120%;
+    color: #FB5231;
+    margin-bottom: -1px;
+    display: block;
+}
+.txt-emeil-div{
+    color: #C8C6C6;
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
+
+.register2{
+    height: 50px;
+    
+    display: flex;
+    margin-top: 30px
+}
+
+.date-food{
+    height: 57px;
+    width: 20%;
+    margin-right: 5%;
+    margin-left: 43%
+    
+}.date-food-txt{
+    height: 40px;
+    width: 99.5%;
+    border: 1px solid #C8C6C6;
+    display: flex;
+    transition: 2s;
+     background-color: white;
+    opacity: 0.6;
+}
+.date-food-txt:hover{
+    border: 1px solid #FB5231;
+    transition: 1s;
+}
+.txt-date{
+    font-size: 120%;
+    color: #FB5231;
+    margin-bottom: -1px;
+    display: block;
+}
+.txt-date-div{
+    color: #C8C6C6;
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.img{
+    width: 25px;
+    height: 25px;
+    border: 1px solid red;
+    margin-top: 5px;
+    margin-left: 170px
+}
+
+
+
+.emeil-food{
+    height: 57px;
+    width: 20%;
+    
+}.emeil-food-txt{
+    height: 40px;
+    width: 99.5%;
+    border: 1px solid #C8C6C6;
+    transition: 2s;
+}
+.emeil-food-txt:hover{
+    border: 1px solid #FB5231;
+    transition: 1s;
+}
+.txt-emeil{
+    font-size: 120%;
+    color: #FB5231;
+    margin-bottom: -1px;
+    display: block;
+}
+.txt-emeil-div{
+    color: #C8C6C6;
+    text-align: left;
+    margin-top: 8px;
+    margin-left: 5px;
+}

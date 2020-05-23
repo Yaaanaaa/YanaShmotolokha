@@ -1,0 +1,74 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.neuf{
+    width: 100%;
+    float: left;
+    background-image: url(../img/bg.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+}
+.jtrf_img{
+    width: 100%;
+    float: left;
+    margin: 1.5%;
+    margin-left: 10%;
+}
+.jtrf_img img{
+    width: 40%;
+    margin-left: 5%;
+}
+jtrf_forms{
+    width: 30%;
+    float: left;
+    border: 1px solid green;
+}
+.jtrf_forms_title{
+    text-align: center;
+    font-family: 'Marck Script', cursive;
+    font-size: 30px;
+    color: #eb5210;
+    margin-top: 3%;
+}
+.jtrf_forms_text{
+    text-align: center;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5e5a5a;
+}
+
+input[type="submit"]{
+    border-radius: none;
+    border: 2px solid #eb5210;
+    background-color: #eb5210;
+    color: white;
+    width: 70%;
+}
+#nm{
+    font-family: 'EB Garamond', serif;
+}
+#em{
+    font-family: 'EB Garamond', serif;
+}
+#dt{
+    font-family: 'EB Garamond', serif;
+}
+#pn{
+    font-family: 'EB Garamond', serif;
+}
+label{
+    font-family: 'Vesper Libre', serif;
+    font-size: 14pt;
+    color: rgba(251, 82, 49, 255);
+    text-align: left;
+}
+.frmac{
+    margin-top: 13%;
+}
+@media only screen and (max-width : 1024px)
+    
